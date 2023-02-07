@@ -129,6 +129,9 @@
 .skill{
 	margin-top:20px;
 }
+.percentage progress::-webkit-progress-value{
+	background:#0078ff;
+} 
 .resume-right h1{
 	padding-top:10px;
 	padding-bottom:40px;
