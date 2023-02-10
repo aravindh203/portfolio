@@ -67,7 +67,7 @@
 	background-position:center;
 	color:white;
 	background-attachment:fixed;
-	background-size:100%;
+	background-size:cover;
 }
 .name{
 	text-align:center;
@@ -490,7 +490,7 @@
 .contact{
 	background:linear-gradient(#028affb0,#028affb0),url(../images/overlay-bg.jpg);
 	width:100%;
-	background-size:100%;
+	background-size:cover;
 	margin-top:100px;
 }
 .form{
@@ -727,7 +727,7 @@
 	}
 		/*image-bg*/
 	.color-content{
-		width:25%;
+		width: 50%;
 	}
 		/*portfolio*/
 	.portfolio{
@@ -781,6 +781,10 @@
 	}
 	.service-content{
 		width:33.3%;
+	}
+		/*image-bg*/
+	.color-content{
+		width: 25%;
 	}
 		/*portfolio*/
 	.portfolio{
